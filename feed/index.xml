@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Plato&#039;s cave</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Proxecto de Innovación Pedagóxica</description>
+	<lastBuildDate>Tue, 13 Dec 2016 20:16:45 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>¡Hola mundo!</title>
+		<link>./../hola-mundo/index.html</link>
+					<comments>./../hola-mundo/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Prisoner]]></dc:creator>
+		<pubDate>Thu, 08 Dec 2016 19:13:12 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">./../index.html?p=1</guid>
+
+					<description><![CDATA[Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡y comienza a escribir!]]></description>
+										<content:encoded><![CDATA[<p>Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡y comienza a escribir!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../hola-mundo/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A CAVERNA DE PLATÓN IES do Castro / Vigo</title>
+		<link>./../a-caverna-de-platon-ies-do-castro/index.html</link>
+					<comments>./../a-caverna-de-platon-ies-do-castro/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Prisoner]]></dc:creator>
+		<pubDate>Sat, 08 Dec 2012 20:01:29 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">./../index.html?p=9</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../a-caverna-de-platon-ies-do-castro/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A CAVERNA DE PLATON Oleiros / A Coruña</title>
+		<link>./../a-caverna-de-platon-oleiros-a-coruna/index.html</link>
+					<comments>./../a-caverna-de-platon-oleiros-a-coruna/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Prisoner]]></dc:creator>
+		<pubDate>Sat, 08 May 2010 20:12:32 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">./../index.html?p=12</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../a-caverna-de-platon-oleiros-a-coruna/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A CAVERNA DE PLATÓN IES Porto do Son / Porto do Son</title>
+		<link>./../a-caverna-de-platon-ies-porto-do-son-porto-do-son/index.html</link>
+					<comments>./../a-caverna-de-platon-ies-porto-do-son-porto-do-son/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Prisoner]]></dc:creator>
+		<pubDate>Sat, 13 Mar 2010 20:11:13 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">./../index.html?p=17</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../a-caverna-de-platon-ies-porto-do-son-porto-do-son/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
